@@ -1,0 +1,8 @@
+<!--redis分布式锁依赖-->
+<dependency>
+	<groupId>org.redisson</groupId>
+	<artifactId>redisson</artifactId>
+	<version>3.3.2</version>
+</dependency>
+
+记得这些工具类让spring扫描到
